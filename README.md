@@ -1,3 +1,0 @@
-# trendtraitimthuytinh
-hi
-make byme
